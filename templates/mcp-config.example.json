@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "lk-mcp": {
+      "type": "streamablehttp",
+      "url": "https://gwmcp.lkcoffee.com/order/user/mcp",
+      "headers": {
+        "Authorization": "Bearer <在此粘贴你的瑞幸 Token>"
+      }
+    }
+  }
+}

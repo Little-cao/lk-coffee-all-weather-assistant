@@ -1,0 +1,19 @@
+# IDE / 编辑器
+.idea/
+.vscode/
+*.iml
+*.swp
+
+# 操作系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 本地临时文件与日志
+*.log
+tmp/
+*.local.md
+
+# 环境变量与凭证（本仓库绝不提交任何 Token / 密钥）
+.env
+.env.*
