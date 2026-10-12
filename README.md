@@ -81,7 +81,7 @@
 直接对智能体说一句即可，例如：
 
 ```text
-我公司在望京 SOHO，帮我看下附近有啥瑞幸，来杯小杯冰美式
+根据 https://github.com/Little-cao/lk-coffee-all-weather-assistant 这个地址，帮我安装这个 skill，我在望京 SOHO，帮我配置每天 9:30 点一杯生椰拿铁
 ```
 
 更多可直接复制的指令见 [examples/prompts.md](./examples/prompts.md)。

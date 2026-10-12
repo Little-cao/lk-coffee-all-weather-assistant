@@ -5,6 +5,7 @@
 
 ## 0. 首次使用 / 环境配置 / 常用门店
 
+- 「根据 https://github.com/Little-cao/lk-coffee-all-weather-assistant 这个地址，帮我安装这个 skill，我在望京 SOHO，帮我配置每天 9:30 点一杯生椰拿铁」
 - 「我想用瑞幸助手，帮我开通一下」
 - 「瑞幸的钥匙过期了，帮我重新配一把」
 - 「记一下我的常用门店：望京 SOHO T1 店」
